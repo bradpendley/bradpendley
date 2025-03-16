@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bradpendley
 - 👀 I’m interested in software engineering
-- 🌱 I’m a constant learner, I am currently engoying C# in my work environment and Go in my down time.
 - 💞️ I’m looking to collaborate on projects. 
 
 <!---
